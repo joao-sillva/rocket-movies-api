@@ -9,7 +9,7 @@
   <p>
     <a href="#-rocketmovies">Rocketmovies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-banco">Banco de dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-estrutura">Estrutura</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-contato">Contato</a>
   </p>
   
@@ -27,6 +27,23 @@ Nessa aplicação foi utilizado banco de dados relacional (SQL). Para ambiente d
 
 ### Estrutura Bando de dados
 ![preview](.github/estrutura-db.png)
+
+
+## Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+* Node.js
+* Express
+* SQLite
+* Knex.js
+
+
+## Extras
+Alguns detalhes adicionados ao desafio:
+
+* Criptografia de senhas
+* Validação de e-mail
+* Aplicação do cascade para garantir que uma tag seja excluída caso o usuário opte por excluir a nota.
 
 
 ## Contato
